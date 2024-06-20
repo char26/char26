@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌴 I'm from Oceanside, California <br><br>- 🖥️ Software Developer<br>- 📚 CS&E Grad Student @ UC Santa Cruz<br>- ⚡ Technology Enthusiast (Nerd)</p>
+<p align="left">🌴 Living in Santa Cruz, California <br><br>- 🖥️ Software Engineer<br>- 📚 CS&E Grad Student @ UC Santa Cruz<br>- ⚡ Technology Enthusiast (Nerd)</p>
 
 ###
 
